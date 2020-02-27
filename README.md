@@ -1,2 +1,2 @@
-# eee500
+# EEE500
 Face Recognation
