@@ -1,2 +1,1 @@
-## Evrişimli Sinir Ağları
-#Genel Bakış
+# Evrişimli Sinir Ağları
