@@ -1,2 +1,2 @@
-# EEE500
-Face Recognation
+## Evrişimli Sinir Ağları
+#Genel Bakış
